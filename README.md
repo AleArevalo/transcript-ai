@@ -25,9 +25,8 @@ To run this project on your machine width Docker, follow these steps:
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
-**Note:** Make sure you have Node.js installed on your machine for the project to work properly.
-
 To run this project on your machine with NodeJS, follow these steps:
+**Note:** Make sure you have Node.js installed on your machine for the project to work properly.
 
 1. Clone the repository to your local machine:
     ```bash
